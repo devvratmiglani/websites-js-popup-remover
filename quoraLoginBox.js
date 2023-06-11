@@ -1,3 +1,4 @@
+//works for quora.com
 javascript: (function() {
     function F1(elem) {
         document.querySelector('div[class="q-flex qu-alignItems--center qu-justifyContent--center qu-overflow--hidden qu-zIndex--blocking_wall"]').remove();
