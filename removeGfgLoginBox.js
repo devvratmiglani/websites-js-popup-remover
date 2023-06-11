@@ -1,3 +1,4 @@
+//works for geegksforgeeks.com
 javascript:(function k()
 {
     if(document.querySelector('div.login-modal-div'))
