@@ -25,4 +25,9 @@ If you create bookmarklet makesure the code is in proper bookmarklet format as i
 ## Installation
 
 *The Easiest Part:*
-Copy-Paste-Execute
+
+Copy
+
+Paste in format
+
+Run
