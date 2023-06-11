@@ -1,5 +1,7 @@
 # websites-js-popup-remover
 
+The above codes helps you easily remove irritating popups in some websites.
+
 Use extension Scripty in chromium (or supported) browsers or use bookmarklet.
 Scripty makes it automatic.
 Bookmarklet is manual.
