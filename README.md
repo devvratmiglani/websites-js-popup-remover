@@ -10,7 +10,7 @@ Bookmarklet is manual.
 
 [Information About Bookmarklet](https://www.freecodecamp.org/news/what-are-bookmarklets/)
 
-If you create bookmarklet makesure the code is in proper bookmarklet format as in *oneline* without *endline* charaters
+If you create bookmarklet makesure the code is in proper bookmarklet format as in *oneline* without *endline* characters
 
 ## Authors
 
