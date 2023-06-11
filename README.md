@@ -5,6 +5,7 @@ Scripty makes it automatic.
 Bookmarklet is manual.
 
 [Scripty](https://chrome.google.com/webstore/detail/scripty-javascript-inject/milkbiaeapddfnpenedfgbfdacpbcbam)
+
 [Information About Bookmarklet](https://www.freecodecamp.org/news/what-are-bookmarklets/)
 
 ## Authors
