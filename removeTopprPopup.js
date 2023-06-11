@@ -1,3 +1,4 @@
+//works for toppr.com
 javascript:(function k()
 {
     if(document.querySelector('div#signupPopupWrapper'))
